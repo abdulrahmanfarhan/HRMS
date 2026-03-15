@@ -1,5 +1,7 @@
-public class Attendence extends javax.swing.JPanel {
-    public Attendence() {
+package com.project.screens;
+
+public class setting extends javax.swing.JPanel {
+    public setting() {
         initComponents();
     }
 
@@ -9,7 +11,7 @@ public class Attendence extends javax.swing.JPanel {
 
         jLabel1 = new javax.swing.JLabel();
 
-        jLabel1.setText("Attendce");
+        jLabel1.setText("setting");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
@@ -18,7 +20,7 @@ public class Attendence extends javax.swing.JPanel {
             .addGroup(layout.createSequentialGroup()
                 .addGap(539, 539, 539)
                 .addComponent(jLabel1)
-                .addContainerGap(583, Short.MAX_VALUE))
+                .addContainerGap(595, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
