@@ -10,6 +10,7 @@ main\Main.class
 com\project\hrms\Dashboard$NavButton.class
 Attendence.class
 com\project\hrms\EmployeesPanel$3.class
+payroll.class
 com\project\hrms\EmployeesPanel.class
 com\project\hrms\ReportsPanel$5.class
 com\project\hrms\AttendancePanel$AttendanceStatusRenderer.class
@@ -22,9 +23,11 @@ com\project\hrms\EmployeesPanel$ActionRenderer.class
 com\project\hrms\EmployeesPanel$2.class
 com\project\hrms\ReportsPanel$2.class
 com\project\hrms\AttendancePanel.class
+setting.class
 com\project\hrms\Dashboard$NavButton$1.class
 HRMS.class
 com\project\hrms\Dashboard$1.class
+NewJFrame.class
 com\project\hrms\PayrollPanel$1.class
 com\project\hrms\ReportsPanel$4.class
 com\project\hrms\PayrollPanel$PayrollStatusRenderer.class
